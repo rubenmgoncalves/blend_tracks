@@ -1,6 +1,6 @@
-impl: 'https://github.com/blend-os/tracks/raw/main'
+impl: 'https://github.com/rubenmgoncalves/blend_tracks/raw/main'
 
-track: 'blendos-base'
+track: 'my-base'
 
 packages:
   - 'baobab'
